@@ -1,0 +1,6 @@
+{
+  "name": "NovaBank",
+  "description": "Next-generation secure digital private banking web application powered by the verified banking core.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
